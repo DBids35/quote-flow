@@ -1,0 +1,1 @@
+export const defaultDropdownText = "Select an Option"
