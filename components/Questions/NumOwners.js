@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import NumericalInput from "./Types/NumericalInput";
 
 export default function NumOwners({data, updateData}) {

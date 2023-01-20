@@ -1,5 +1,5 @@
 import { industryList } from "../../industries";
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import SearchableDropdown from "./Types/SearchableDropdown";
 
 export default function WhatYouDo({data, updateData}) {

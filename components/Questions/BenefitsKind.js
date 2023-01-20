@@ -1,5 +1,5 @@
 import MultiSelect from "./Types/MultiSelect";
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 
 export default function BenefitsKind({data, updateData}) {
 

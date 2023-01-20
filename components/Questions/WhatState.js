@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import Dropdown from "./Types/Dropdown";
 
 export default function WhatState({data, updateData}) {

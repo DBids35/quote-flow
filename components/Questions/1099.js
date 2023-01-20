@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import Toggle from "./Types/Toggle";
 
 export default function Ten99({data, updateData}) {

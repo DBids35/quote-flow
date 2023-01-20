@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 import Datepicker from "./Types/Datepicker"
 
 export default function CoverageStart({data, updateData}) {

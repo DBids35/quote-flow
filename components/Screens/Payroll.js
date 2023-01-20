@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 import BusinessKind from "../Questions/BusinessKind"
 import CurrentPayroll from "../Questions/CurrentPayroll"
 import PayrollThisYear from "../Questions/PayrollThisYear"

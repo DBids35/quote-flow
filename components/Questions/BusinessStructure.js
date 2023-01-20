@@ -1,5 +1,5 @@
 import Dropdown from "./Types/Dropdown"
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 
 export default function BusinessStructure({data, updateData}) {
     

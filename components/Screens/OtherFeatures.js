@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 import OtherServices from "../Questions/OtherServices"
 import QuoteScreen from "../QuoteScreen"
 

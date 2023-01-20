@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import TextInput from "./Types/TextInput";
 
 export default function LastName({data, updateData}) {

@@ -1,6 +1,6 @@
 import BenefitsKind from "../Questions/BenefitsKind"
 import QuoteScreen from "../QuoteScreen"
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 
 export default function Benefits({data, updateData, setNextActive}) {
 

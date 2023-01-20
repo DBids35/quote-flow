@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import MultiSelect from "./Types/MultiSelect";
 
 export default function OtherServices({selectedPayroll, selectedBenefits, data, updateData}) {

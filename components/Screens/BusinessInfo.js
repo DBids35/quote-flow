@@ -1,7 +1,7 @@
 import BusinessStructure from "../Questions/BusinessStructure"
 import NumOwners from "../Questions/NumOwners"
 import QuoteScreen from "../QuoteScreen"
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 
 export default function BusinessInfo({data, updateData, setNextActive}) {
 

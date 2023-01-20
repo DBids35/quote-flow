@@ -1,4 +1,4 @@
-import { questionKeys } from "../../../questions";
+import { questionKeys } from "../../../config";
 
 /*
   This example requires Tailwind CSS v2.0+ 

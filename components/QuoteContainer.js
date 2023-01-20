@@ -1,4 +1,3 @@
-import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 
@@ -16,7 +15,7 @@ import OtherFeatures from "../components/Screens/OtherFeatures";
 import ProgressBar from "../components/ProgressBar";
 import { ArrowLeftIcon, ArrowRightIcon } from "@heroicons/react/24/outline";
 
-import {screenKeys} from "../screens";
+import {screenKeys} from "../config";
 import Loading from '../components/Loading'
 
 

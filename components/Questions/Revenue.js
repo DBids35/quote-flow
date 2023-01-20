@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions";
+import { questionKeys } from "../../config";
 import DollarInput from "./Types/DollarInput";
 
 export default function Revenue({data, updateData}) {

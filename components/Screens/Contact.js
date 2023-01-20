@@ -1,4 +1,4 @@
-import { questionKeys } from "../../questions"
+import { questionKeys } from "../../config"
 import Email from "../Questions/Email"
 import FirstName from "../Questions/FirstName"
 import LastName from "../Questions/LastName"
